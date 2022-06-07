@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css';
 import { useState} from 'react';
-import image from './images/bot_image.jpg';
+import image from './bot_image.jpg';
 
 const Chatbot = () => {
 	const date = new Date();
